@@ -28,7 +28,7 @@ mysql -u root -e "CREATE DATABASE IF NOT EXISTS $database_id"
 mysql -u root -e "CREATE USER IF NOT EXISTS '$database_id'@'localhost' IDENTIFIED BY '$database_id'"
 mysql -u root -e "GRANT ALL PRIVILEGES ON $database_id.* TO '$database_id'@'localhost'"
 mysql -u root -e "FLUSH PRIVILEGES"
-mysql -uroot -p kaeroprima < kaero_prima.sql 
+mysql -uroot -p kaeroprima < kaero_prima.sql
 
 # Create .env file
 echo "Creating .env file" > /var/www/html/index.html
@@ -39,7 +39,6 @@ echo "DB_PORT=3306" >> .env
 echo "DB_DATABASE=kaeroprima" >> .env
 echo "DB_USERNAME=kaeroprima" >> .env
 echo "DB_PASSWORD=kaeroprima" >> .env
-
 echo "APP_ENV=local" >> .env
 echo "APP_DEBUG=true" >> .env
 
@@ -49,14 +48,13 @@ echo "Installing Laravel" > /var/www/html/index.html
 /usr/local/bin/composer install
 echo "Configuring Laravel" > /var/www/html/index.html
 php artisan key:generate --force
-
 chgrp -R www-data storage bootstrap/cache
 chmod -R ug+rwx storage bootstrap/cache
 chown -R $USER:www-data .
 
-# Migrate database
-echo "Migrating database" > /var/www/html/index.html
-php artisan migrate --seed --force
+# # Migrate database
+# echo "Migrating database" > /var/www/html/index.html
+# php artisan migrate --seed --force
 
 # Configure Apache
 echo "Configuring Apache" > /var/www/html/index.html
