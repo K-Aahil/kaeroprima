@@ -1,0 +1,1109 @@
+@media only screen and (max-width: 576px)  {
+	#headbar{
+		padding: 10px 10px;
+	}
+
+	#headbar h5{
+		font-size: 12px;
+		margin-right: 10px;
+	}
+
+	#headbar .contact{
+		justify-content: center !important;
+	}
+
+	#headbar .social-media{
+		display: none !important;
+	}
+
+	#navmenu {
+	    padding: 0px 0px;
+	}
+
+	a.navbar-brand img {
+	    width: 100px;
+	}
+
+	#banner .banner-item .text {
+	    margin-top: 10px;
+	    margin-left: 10px;
+	}
+
+	#banner .banner-item .text h2 {
+	    font-size: 24px;
+	}
+
+	#banner .banner-item .text h4 {
+	    font-size: 16px;
+	}
+
+	#banner .banner-item .text .simage h6 {
+	    font-size: 14px;
+	}
+
+	#banner .banner-item .text .simage img {
+	    width: 60px;
+	}
+
+	#banner .banner-item .text .detail {
+	    margin-top: 16px;
+	    justify-content: center;
+	}
+
+	#services {
+	    padding: 0px 0px;
+	}
+
+	#expert {
+	    padding: 0px 0px;
+	}
+
+	#promo{
+		padding: 0px 0px;
+	}
+
+	#promo .promo-content{
+		display: block;
+		text-align: center;
+	}
+
+	#promo .promo-content img {
+	    width: 170px;
+    	margin: 20px 0;
+	}
+
+	#promo .promo-content .text {
+	     margin-left: 0px;
+	     text-align: center !important;
+	}
+
+	#promo .promo-content .text h2{
+		font-size: 36px;
+	}
+
+	#promo .promo-content .text h6{
+		font-size: 16px;
+	}
+
+	#promo .promo-list .row{
+		padding-left: 0;
+	}
+
+	#promo .promo-list .promo-item .card{
+		margin-left: 27px;
+		margin-bottom: 50px;
+	}
+
+	#about-us{
+	    padding: 0px 0px;
+	}
+
+	#about-us .about-us-content{
+		display: block;
+		text-align: center;
+	}
+
+	#about-us .about-us-content img {
+	    width: 170px;
+	}
+
+	#about-us .about-us-content .text {
+	    margin-left: 0px;
+	    text-align: center !important;
+	}
+
+	#about-us .about-us-content .text .btn-about-us{
+
+	}
+
+	#about-us .about-us-content .text h6 {
+	    font-size: 16px;
+	}
+
+	#footer .content{
+		display: block;
+		text-align: center;
+	}
+
+	#footer .profile{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer h6{
+		text-align: center;
+	}
+
+	#footer .perusahaan{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer .kontak{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer .gabung{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer .marketplace{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#copyright {
+	    font-size: 12px;
+	}
+
+	#tentang-kami{
+		padding: 0 10px;
+	}
+
+	#tentang-kami h2{
+		font-size: 36px;
+	}
+
+	#tentang-kami .content h3{
+		font-size: 36px;
+	}
+
+	#visi-misi{
+		padding: 0 10px;
+	}
+
+	#visi-misi .content{
+		display: block;
+	}
+
+	#visi-misi .content .card{
+		margin-left: 10px;
+	}
+
+	#mitra{
+		padding: 0 10px;
+	}
+
+	#banner-static{
+		padding: 0px;
+	}
+
+	#banner-static h2 {
+	    margin-top: 25px;
+	    margin-left: 0px;
+	    font-size: 32px;
+	}
+
+	#banner-static h6{
+		margin-top: 10px;
+		margin-left: 0px;
+		font-size: 16px;
+	}
+
+	#banner-static .healty {
+	    margin: 10px 0 20px 0px;
+	    justify-content: center;
+	}
+
+	#banner-static .healty img{
+		width: 50px;
+	}
+
+	#banner-static .healty h4{
+		font-size: 16px;
+	}
+
+	#services-du{
+		padding: 0px;
+	}
+
+	#kontak-kami-du .card {
+		width: 90%;
+		bottom: 0;
+		padding: 0;
+		background-position: top center;
+		margin-top: 20px;
+	}
+
+	#kontak-kami-du .card .card-body{
+		margin-top: 250px;
+	}
+
+	#artikel{
+		padding: 0px;
+	}
+
+	#artikel a.btn-kategori{
+		margin-right: 5px;
+	}
+
+	#kontak-kami{
+		padding: 0px;
+	}
+
+	#kontak-kami .deskripsi{
+		display: block;
+		text-align: center;
+	}
+
+	#kontak-kami .deskripsi .text{
+		padding-right: 0px;
+		margin-top: 30px;
+	}
+
+	#kontak-kami .kontak-list .kontak-item{
+		display: block;
+	}
+
+	#karir{
+		padding: 0px;
+	}
+
+	#karir .deskripsi{
+		display: block;
+		text-align: center;
+		margin-top: 40px;
+	}
+
+	#karir .deskripsi img {
+	    width: 100%;
+	}
+
+	#karir .karir-list .card .btn-detail{
+		width: 100%;
+	}
+
+	#karir .filter .card h6.title a.filter-btn{
+		display: inline-block;
+	}
+
+	#karir .filter .card .filter-form{
+		display: none;
+	}
+
+	#marketplace{
+		padding: 0px;
+	}
+
+	#marketplace .deskripsi{
+		display: block;
+		margin-top: 40px;
+	}
+
+	#marketplace .deskripsi .text{
+		text-align: center;
+	}
+
+	#marketplace .marketplace-list{
+		padding: 0 20px;
+	}
+
+	#banner-custom{
+		padding: 0;
+		background-size: 439px; 
+		background-position: bottom center;
+	}
+
+	#banner-custom .deskripsi .text{
+		padding-right: 0px;
+		padding-bottom: 250px;
+		text-align: center;
+	}
+
+	#banner-custom .deskripsi .text h6{
+		padding-left: 0;
+	}
+
+	#promo.custom{
+		padding: 0 20px;
+	}
+
+	#promo .promo-list-custom .promo-item .card{
+		margin-bottom: 50px;
+	}
+
+	#artikel-detail{
+		padding: 40px 20px;
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px)  {
+	#headbar{
+		padding: 10px 10px;
+	}
+
+	#headbar h5{
+		font-size: 16px;
+    	margin-right: 0px;
+    	margin-left: 30px;
+	}
+
+	#headbar .contact{
+		justify-content: center !important;
+	}
+
+	#headbar .social-media{
+		display: none !important;
+	}
+
+	#navmenu {
+	    padding: 0px 0px;
+	}
+
+	a.navbar-brand img {
+	    width: 100px;
+	}
+
+	#banner .banner-item .text {
+	    margin-top: 10px;
+	    margin-left: 10px;
+	}
+
+	#banner .banner-item .text h2 {
+	    font-size: 24px;
+	}
+
+	#banner .banner-item .text h4 {
+	    font-size: 12px;
+	}
+
+	#banner .banner-item .text .simage h6 {
+	    font-size: 12px;
+	}
+
+	#banner .banner-item .text .simage img {
+	    width: 50px;
+	}
+
+	#services {
+	    padding: 0px 10px;
+	}
+
+	#services h4 {
+	    margin-top: 50px;
+	    font-size: 24px;
+	}
+
+	#services h6 {
+	    margin-top: 10px;
+	    font-size: 16px;
+	}
+
+	#services .service-list .service-item h4.title {
+	    font-size: 18px;
+	}
+
+	#services .service-list .service-item h6.desc {
+	   	font-size: 14px;
+	}
+
+	#services .service-list .service-item a {
+	    font-size: 14px;
+	}
+
+	#promo {
+	    padding: 0px 10px;
+	}
+
+	#promo h4 {
+	    margin-top: 30px;
+	    font-size: 28px;
+	}
+
+	#promo .promo-content {
+	    display: block;
+	}
+
+	#promo .promo-content img {
+	    width: 170px;
+    	margin: 20px 0;
+	}
+
+	#promo .promo-content .text {
+	     margin-left: 0px;
+	     text-align: center !important;
+	}
+
+	#promo .promo-content .text h2{
+		font-size: 36px;
+	}
+
+	#promo .promo-content .text h6{
+		font-size: 16px;
+	}
+
+	#promo .promo-list .promo-item .card {
+	    width: 225px;
+	    height: 410px;
+	}
+
+	#promo .promo-list .promo-item img {
+	    width: 80px;
+	}
+
+	#promo .promo-list .promo-item h3{
+		font-size: 16px;
+	}
+
+	#promo .promo-list .promo-item p.title{
+		font-size: 16px;
+	}
+
+	#promo .promo-list .promo-item p.desc{
+		font-size: 12px;
+	}
+
+	#promo .promo-list .promo-item p.dc-price{
+		font-size: 10px;
+		margin-bottom: 0;
+	}
+
+	#promo .promo-list .promo-item p.price{
+		font-size: 14px;
+	}
+
+	#promo .promo-list .promo-item p.catatan{
+		font-size: 10px;
+	}
+
+	#promo .promo-list .promo-item .btn-kontak{
+		font-size: 14px;
+		line-height: 24px;
+	}
+
+	#promo .promo-list .row{
+		padding-left: 0;
+	}
+
+	#expert {
+	    padding: 0px 10px;
+	}
+
+	#expert h4 {
+	    margin-top: 50px;
+	    font-size: 24px;
+	}
+
+	#expert h6 {
+	    margin-top: 10px;
+	    font-size: 16px;
+	}
+
+	#copyright {
+	    font-size: 12px;
+	}
+
+	#expert .expert-list .expert-item h4.title{
+		font-size: 28px;
+		margin-top: 25px;
+	}
+
+	#expert .expert-list .expert-item p.desc{
+		font-size: 15px;
+	}
+
+	#about-us {
+	    padding: 0px 10px;
+	}
+
+	#about-us h4 {
+	    margin-top: 30px;
+	    font-size: 28px;
+	}
+
+	#about-us .about-us-content {
+	    display: block;
+	}
+
+	#about-us .about-us-content img {
+	    width: 170px;
+    	margin: 20px 0;
+	}
+
+	#about-us .about-us-content .text h6{
+		font-size: 16px;
+	}
+
+	#about-us .about-us-content .text {
+	    margin-left: 0px;
+	    text-align: center !important;
+	}
+
+	#about-us .about-us-content .text .btn-about-us{
+		width: 250px;
+	    height: 45px;
+	    font-size: 16px;
+	    line-height: 30px;
+	}
+
+	#footer .content{
+		display: block;
+		text-align: center;
+	}
+
+	#footer .profile{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer h6{
+		text-align: center;
+	}
+
+	#footer .perusahaan{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer .kontak{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer .gabung{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer .marketplace{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#copyright {
+	    font-size: 12px;
+	}
+
+	#tentang-kami{
+		padding: 0 10px;
+	}
+
+	#visi-misi{
+		padding: 0 10px;
+	}
+
+	#visi-misi .content{
+		display: block;
+	}
+
+	#visi-misi .content .card{
+		margin-left: 10px;
+	}
+
+	#banner-static{
+		padding: 0px;
+	}
+
+	#banner-static h2 {
+	    margin-top: 25px;
+	    margin-left: 0px;
+	    font-size: 32px;
+	}
+
+	#banner-static h6{
+		margin-top: 10px;
+		margin-left: 0px;
+		font-size: 16px;
+	}
+
+	#banner-static .healty {
+	    margin: 10px 0 20px 0px;
+	}
+
+	#banner-static .healty img{
+		width: 50px;
+	}
+
+	#banner-static .healty h4{
+		font-size: 16px;
+	}
+
+	#services-du{
+		padding: 0px;
+	}
+
+	#kontak-kami-du .card {
+		width: 90%;
+		bottom: 0;
+		padding: 0;
+		margin-top: 20px;
+	}
+
+	#artikel{
+		padding: 0px;
+	}
+
+	#kontak-kami{
+		padding: 0px;
+	}
+
+	#kontak-kami .deskripsi{
+		margin-top: 40px;
+	}
+
+	#kontak-kami .deskripsi .text{
+		padding-right: 0px;
+		margin-top: 30px;
+	}
+
+	#kontak-kami .deskripsi .text h2{
+		font-size: 32px;
+	}
+
+	#kontak-kami .deskripsi .text h6{
+		font-size: 14px;
+	}
+
+	#kontak-kami .deskripsi img{
+		width: 180px;
+		height: auto;
+	}
+
+	#karir{
+		padding: 0px;
+	}
+
+	#karir .deskripsi{
+		display: block;
+		text-align: center;
+		margin-top: 40px;
+	}
+
+	#karir .deskripsi img {
+	    width: 100%;
+	}
+
+	#karir .karir-list .card .btn-detail{
+		width: 100%;
+	}
+
+	#karir .filter .card h6.title a.filter-btn{
+		display: inline-block;
+	}
+
+	#karir .filter .card .filter-form{
+		display: none;
+	}
+
+	#marketplace{
+		padding: 0px;
+	}
+
+	#banner-custom{
+		padding: 0;
+		background-size: 439px; 
+		background-position: bottom right;
+	}
+
+	#banner-custom .deskripsi .text{
+		padding-right: 0px;
+		padding-bottom: 250px;
+		text-align: center;
+	}
+
+	#banner-custom .deskripsi .text h6{
+		padding-left: 0;
+	}
+
+	#promo.custom{
+		padding: 0 20px;
+	}
+
+	#promo .promo-list-custom .promo-item .card{
+		margin-bottom: 50px;
+	}
+
+	#artikel-detail{
+		padding: 40px 20px;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px)  {
+	#headbar{
+		padding: 10px 10px;
+	}
+
+	#headbar h5{
+		font-size: 12px;
+		margin-left: 15px;
+		margin-right: 0;
+	}
+
+	#headbar .social-media a img{
+		width: 25px;
+	}
+
+	#headbar .contact{
+		justify-content: left !important;
+	}
+
+	#headbar .social-media{
+		display: flex !important;
+	}
+
+	#navmenu {
+	    padding: 0px 10px;
+	}
+
+	a.navbar-brand img {
+	    width: 115px;
+	}
+
+	#banner .banner-item .text{
+		margin-top: 20px;
+    	margin-left: 20px;
+	}
+
+	#banner .banner-item .text h2{
+		font-size: 28px;
+	}
+
+	#banner .banner-item .text h4{
+		font-size: 14px;
+	}
+
+	#banner .banner-item .text .simage img{
+		width: 40px;
+	}
+
+	#banner .banner-item .text .simage h6{
+		font-size: 14px;
+	}
+
+	#banner .banner-item .text .detail{
+		margin-top: 15px;
+	}
+
+	#services {
+	    text-align: center;
+	    padding: 0px 10px;
+	}
+
+	#services h4{
+		margin-top: 45px;
+		font-size: 28px;
+	}
+
+	#services h6{
+		margin-top: 10px;
+		font-size: 14px;
+	}
+
+	#promo {
+	    text-align: center;
+	    padding: 0px 10px;
+	}
+
+	#promo h4 {
+	    margin-top: 50px;
+	    font-size: 28px;
+	}
+
+	#promo .promo-content .text h2{
+		font-size: 38px;
+	}
+
+	#promo .promo-content .text h6{
+		font-size: 16px;
+	}
+
+	#promo .promo-list .row{
+		padding-left: 0;
+	}
+
+	#promo .promo-list .promo-item .card{
+		width: 250px;
+	}
+
+	#promo .promo-list .promo-item img{
+		left: 26%;
+	}
+
+	#promo .promo-list .promo-item p.title{
+		font-size: 18px;
+	}
+
+	#promo .promo-list .promo-item p.dc-price{
+		margin-bottom: 0;
+		font-size: 12px;
+	}
+
+	#expert {
+	    padding: 0px 10px;
+	}
+
+	#expert h4{
+		font-size: 28px;
+		margin-top: 70px;
+	}
+
+	#expert h6{
+		font-size: 16px;
+		margin-top: 10px;
+	}
+
+	#expert .expert-list{
+		margin-top: 30px;
+	}
+
+	#expert .expert-list .expert-item p.desc{
+		margin-top: 10px;
+		font-size: 14px;
+	}
+
+	#about-us h4{
+		margin-top: 70px;
+	}
+
+	#about-us {
+	    padding: 0px 10	px;
+	}
+
+	#about-us .about-us-content .text{
+		margin-left: 35px;
+	}
+
+	#about-us .about-us-content .text h6{
+		font-size: 16px;
+	}
+
+	#about-us .about-us-content .text .btn-about-us{
+		margin-top: 10px;
+		font-size: 16px;
+		line-height: 33px;
+		height: 45px;
+		width: 275px;
+	}
+
+	#footer .content{
+		display: block;
+		text-align: center;
+	}
+
+	#footer .profile{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer h6{
+		text-align: center;
+	}
+
+	#footer .perusahaan{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer .kontak{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer .gabung{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#footer .marketplace{
+		width: 100%;
+		margin-right: 0px;
+	}
+
+	#copyright {
+	    font-size: 12px;
+	}
+
+	#visi-misi .content{
+		display: block;
+	}
+
+	#visi-misi .content .card{
+		margin-left: 10px;
+	}
+
+	#mitra .list-mitra .card{
+		padding: 10px 20px;
+	}
+
+	#banner-static{
+		padding: 0px;
+	}
+
+	#banner-static h2 {
+	    margin-top: 25px;
+	    margin-left: 0px;
+	}
+
+	#banner-static h6{
+		margin-top: 10px;
+		margin-left: 0px;
+	}
+
+	#banner-static .healty {
+	    margin: 10px 0 20px 0px;
+	}
+
+	#kontak-kami-du .card {
+		width: 90%;
+		bottom: 10px;
+	}
+
+	#services-du{
+		padding: 0px;
+	}
+
+	#artikel{
+		padding: 0px;
+	}
+
+	#kontak-kami{
+		padding: 0px;
+	}
+
+	#kontak-kami .deskripsi .text{
+		padding-right: 0px;
+		margin-top: 30px;
+	}
+
+	#karir{
+		padding: 0px;
+	}
+
+	#karir .deskripsi img {
+	    width: 50%;
+	}
+
+	#karir .karir-list .card .btn-detail{
+		width: 100%;
+	}
+
+	#karir .deskripsi .text h2{
+		font-size: 32px;
+	}
+
+	#karir .deskripsi .text h6{
+		font-size: 16px;
+	}
+
+	#marketplace{
+		padding: 0 20px;
+	}
+
+	#banner-custom{
+		padding: 0;
+		background-size: 625px;
+	}
+
+	#banner-custom .deskripsi .text{
+		padding-right: 150px;
+		padding-bottom: 250px;
+	}
+
+	#banner-custom .deskripsi .text h6{
+		padding-left: 0;
+	}
+
+	#promo.custom{
+		padding: 0 20px;
+	}
+
+	#promo .promo-list-custom .promo-item .card{
+		margin-bottom: 50px;
+	}
+
+	#artikel-detail{
+		padding: 40px 20px;
+	}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px)  {
+	#headbar{
+		padding: 10px 10px;
+	}
+
+	#navmenu{
+		padding: 0 10px;
+	}
+
+	nav ul li.nav-item a{
+		font-size: 18px;
+	}
+
+	#services{
+	    padding: 0px 10px;
+	}
+
+	#banner .banner-item .text{
+		margin-top: 60px;
+    	margin-left: 70px;
+	}
+
+	#services .service-list .service-item .card{
+	    padding-right: 90px;
+	}
+
+	#promo{
+		padding: 0 10px;
+	}
+
+	#expert{
+		padding: 0 10px;
+	}
+
+	#about-us{
+		padding: 0 10px;
+	}
+
+	#footer{
+		padding: 0 10px;
+		padding-bottom: 20px;
+	}
+
+	#banner-static h2 {
+	    margin-top: 25px;
+	}
+
+	#banner-static .healty {
+	    margin: 20px 0px 0px 60px;
+	}
+
+	#services-du{
+		padding: 0px;
+	}
+
+	#artikel{
+		padding: 0px 10px;
+	}
+
+	#kontak-kami{
+		padding: 0px;
+	}
+
+	#karir{
+		padding: 0px;
+	}
+
+	#marketplace{
+		padding: 0px;
+	}
+
+	#marketplace .marketplace-list .marketplace-item .card .card-body span.price{
+		font-size: 18px;
+	}
+
+	#banner-custom{
+		padding: 0 30px;
+		background-size: 625px;
+	}
+
+	#banner-custom .deskripsi .text{
+		padding-right: 150px;
+		padding-bottom: 250px;
+	}
+
+	#artikel-detail{
+		padding: 40px 20px;
+	}
+}

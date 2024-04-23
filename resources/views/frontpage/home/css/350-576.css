@@ -1,0 +1,50 @@
+@media only screen and (min-width: 320px) and (max-width: 576px) {
+    /* *{
+        outline: 1px solid limegreen;
+    } */
+    .list-card-produk{
+        gap: 10vh 0vh;
+    }
+    .artikel {
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 0px;
+    }
+
+    
+    .container .artikel .image-thumbnail img {
+        width: 90vw;
+    }
+
+    .testimoni .list-testimoni {
+        gap: 10vh 0vh;
+        margin-top: 10vh;
+    }
+    .testimoni .list-testimoni .card-testimoni:nth-child(1){
+        margin-top: 5vh;
+    }
+    #list-produk-unggulan{
+        gap: 13vh 0;
+    }
+    .line {
+        border-top: 3px solid white;
+        display: flex;
+        flex-direction: column;
+    }
+    .list-item-partner {
+        display: flex;
+        gap:2vh 2vw;
+        max-width: 60vw;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .list-item-partner .item-partner {
+        background-color: white;
+        border-radius: 10px;
+        width: 25vw;
+        border-bottom: 5px solid var(--primary);
+    }
+    .list-nilai-perusahaan{
+        gap:12vh 0;
+    }
+}

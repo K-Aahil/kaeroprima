@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+body { font-family: 'Roboto Condensed'; background-color: #f7f7f7; }
+.container { margin: 150px auto; max-width: 960px; }
+        ul{
+            list-style: none;
+        }
+
+        .tabs{float:left;width:100%;background:#b70002;}
+        .tabs li{float:left;margin:2px 2px 0;padding:6px 20px;border-radius:3px 3px 0 0;color:#fff;text-decoration:none;}
+        .tabs li.selected{background:#fff;color:#C30;}
+        .tabs li a{color:#fff;text-decoration:none;}
+        .tabs li.selected a{color:#C30;}
+        .tab-contx{width:100%;}
+        .tab-contx p{padding:10px 5px;}
+
+        .hide{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+<h2>Event: Click</h2>
+<div class="demo-wrap">
+    <ul class="tabs" id="tabWrap1">
+        <li rel="#tab1">tag1</li>
+        <li rel="#tab2">tag2</li>
+        <li rel="#tab3">tag3</li>
+        <li rel="#tab4">tag4</li>
+    </ul>
+    <div id="newDom">
+        <div id="tab1" class="tab-contx"><p>Content 1</p></div>
+        <div id="tab2" class="tab-contx hide"><p>Content 2</p></div>
+        <div id="tab3" class="tab-contx hide"><p>Content 3</p></div>
+        <div id="tab4" class="tab-contx hide"><p>Content 4</p></div>
+    </div>
+</div>
+<h2>Event: mouseover</h2>
+<div class="demo-wrap">
+    <ul class="tabs" id="tabWrap2">
+        <li rel="#tab5">tag5</li>
+        <li rel="#tab6">tag6</li>
+        <li rel="#tab7">tag7</li>
+        <li rel="#tab8">tag8</li>
+    </ul>
+    <div >
+        <div id="tab5" class="tab-contx"><p>Content 5</p></div>
+        <div id="tab6" class="tab-contx hide"><p>Content 6</p></div>
+        <div id="tab7" class="tab-contx hide"><p>Content 7</p></div>
+        <div id="tab8" class="tab-contx hide"><p>Content 8</p></div>
+    </div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+<script src="./tabs.js"></script>
+<script>
+
+    $('#tabWrap1').tabs();
+
+
+
+    $('#tabWrap2').tabs({
+        event : "mouseover",
+        delay : 100,
+        callback : function(id) {
+
+        }
+    })
+
+</script>
+</body>
+</html>

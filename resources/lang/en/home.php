@@ -1,0 +1,28 @@
+<?php
+return [
+    'header_schoko'          => 'Schoko Has Accompanied You Since 2007',
+    'languange_wahana'       => 'Languange',
+    'search_wahana'          => 'Search About Us',
+    'search_mob_wahana'      => 'Find Out',
+    'search_list'            => 'Search List',
+    'title_saham_h2'         => 'Share',
+    'title_saham_h1'         => 'Info Share Price PT Wahana Interfood Nusantara TBK',
+    'title_gallery_h2'       => 'Gallery',
+    'title_gallery_h1'       => 'See All Wahana Interfood Nusantara',
+    'title_gallery_h1_down'  => 'Activities Here',
+    'title_news_h3'          => 'Latest News From Schoko',
+    'button_news_view_more'  => 'View More',
+    'title_group_h1'         => 'Our Group',
+    'footer_title_page'      => 'Pages',
+    'footer_title_articel'   => 'Articel',
+    'footer_title_about_us'  => 'About Us',
+    'footer_title_contact'   => 'Contact Us',
+    'footer_gallery'         => 'Gallery',
+    'page_breadcrumb_h2'     => 'Details Page',
+    'news_breadcrumb_h2'     => 'Detailed article',
+    'page_breadcrumb_home'   => 'Home',
+    'summary'                => 'Company Summary',
+    'sub_summary'            => 'Company Overview PT Wahana Interfood',
+    'sub_summary_down'       => 'Nusantara TBK',
+
+];

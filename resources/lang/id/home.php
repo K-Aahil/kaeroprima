@@ -1,0 +1,28 @@
+<?php
+return [
+    'header_schoko'         => 'Schoko Telah Menemani Kalian Sejak 2007',
+    'languange_wahana'      => 'Bahasa',
+    'search_wahana'         => 'Cari Tahu Tentang Kami',
+    'search_mob_wahana'     => 'Cari Tahu',
+    'search_list'           => 'Daftar Pencarian',
+    'title_saham_h2'        => 'Share',
+    'title_saham_h1'        => 'Info Harga Saham PT Wahana Interfood Nusantara TBK',
+    'title_gallery_h2'      => 'Galeri',
+    'title_gallery_h1'      => 'Lihat Semua Kegiatan Wahana Interfood',
+    'title_gallery_h1_down' => 'Nusantara Disini',
+    'title_news_h3'         => 'Berita Terakhir Dari Schoko',
+    'button_news_view_more' => 'Lihat Selengkapnya',
+    'title_group_h1'        => 'Grup Kami',
+    'footer_title_page'     => 'Halaman',
+    'footer_title_articel'  => 'Artikel',
+    'footer_title_about_us' => 'Tentang Kami',
+    'footer_title_contact'  => 'Kontak Kami',
+    'footer_gallery'        => 'Galeri',
+    'page_breadcrumb_h2'    => 'Halaman Detail',
+    'news_breadcrumb_h2'    => 'Artikel Detail',
+    'page_breadcrumb_home'  => 'Beranda',
+    'summary'               => 'Ringkasan Perusahaan',
+    'sub_summary'           => 'Tinjauan Perusahaan PT Wahana Interfood',
+    'sub_summary_down'      => 'Nusantara TBK',
+
+];
